@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Reyhan Topal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my page! I am a Ph.D. candidate in Political Science specializing in International Relations and Comparative Politics at State Univeristy of New York at Albany. I obtained my bachelor's degree in International Relations from Bilkent University where I studied as a fully-funded student. I also earned a master's degree in International Relations at Middle East Technical University with my thesis "Turkey’s Mediation Initiatives between 2002 and 2015: A Discourse and Content Analysis."
+
+In my dissertation, I investigate how the Internet and communication technologies transform political violence and collective action in authoritarian regimes. I delve into repressive and liberating aspects of technology by employing qualitative, quantitative, and computational research methods. To that end, I examine AI-enhanced surveillance of minorities, online organization of violent insurgencies and nonviolent civil resistance, and online
+mobilization against repression. With my project, I aim to offer a unique insight into the changing nature of oppression, resistance, and political violence.
+
+I am currently a Princeton Dissertation Scholar at the [The Mamdouha S. Bobst Center for Peace and Justice](https://bobst.princeton.edu/). In 2021-2022, I was selected as a Next Generation Fellow at [Women in International Security](https://wiisglobal.org/) with my project on gender gap in technology and security research. I also earned a place at [University of California, Berkeley's Program in Science and Technology Studies](https://cstms.berkeley.edu/research/sts/) as a visiting researcher in 2019 to research circulation of radical ideologies within violent online subcultures.
+
+[this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
