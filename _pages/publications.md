@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
-
 **Articles in Peer-reviewed Publications**
 
 Topal, Reyhan. 2023. “A Techno-Docility Approach to Repression and Surveillance of Uyghurs.” <i>Asian Survey</i> (Forthcoming)
