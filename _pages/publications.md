@@ -30,13 +30,11 @@ Topal, Reyhan. 2022. “The Rise of Digital Repression: How Technology is Reshap
 
 **Other Publications**
 
-Topal, Reyhan. 2022. “Decolonizing Data to Tackle Digital Authoritarianism.” <i>Global Voices</i>, May 30, 2022.
-https://globalvoices.org/2022/06/02/decolonizing-data-to-tackle-digital-authoritarianism/.
+Topal, Reyhan. 2022. “Decolonizing Data to Tackle Digital Authoritarianism.” <i>Global Voices</i>, May 30, 2022. Available [online] (https://globalvoices.org/2022/06/02/decolonizing-data-to-tackle-digital-authoritarianism/).
 
 Topal, Reyhan. 2022. “Still Flattening the Curve? Increased Risk of Digital Authoritarianism after COVID-19.” <i>Global
-Voices</i>, March 30, 2022.
-https://globalvoices.org/2022/03/30/still-flattening-the-curve-increased-risk-of-digital-authoritarianism-after-covid-19/.
+Voices</i>, March 30, 2022. Available [online] (https://globalvoices.org/2022/03/30/still-flattening-the-curve-increased-risk-of-digital-authoritarianism-after-covid-19/).
 
 Willis, Charmaine N. and Reyhan Topal. 2020. “Between Remote Teaching & Learning: Teaching Assistants in the
-Time of COVID-19.” <i>APSA Educate</i>, May 5, 2020.
-https://educate.apsanet.org/between-remote-teaching-learning-teaching-assistants-in-the-time-of-covid-19/.
+Time of COVID-19.” <i>APSA Educate</i>, May 5, 2020. Available [online]
+(https://educate.apsanet.org/between-remote-teaching-learning-teaching-assistants-in-the-time-of-covid-19/).
