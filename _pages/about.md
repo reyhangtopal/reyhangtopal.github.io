@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="hxOEu1gbDuyIBFPFU0HllP6dqH1VsCS99PAcETfXJtY" />
 ---
 permalink: /
 title: "Reyhan Topal"
