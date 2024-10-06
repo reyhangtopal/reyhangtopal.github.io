@@ -2,10 +2,6 @@
 permalink: /
 title: "Reyhan Topal"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-QJN0QC90KH"></script>
 <script>
@@ -15,6 +11,10 @@ redirect_from:
 
   gtag('config', 'G-QJN0QC90KH');
 </script>
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Welcome to my website!
