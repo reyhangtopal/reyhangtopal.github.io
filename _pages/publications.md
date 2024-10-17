@@ -7,7 +7,7 @@ author_profile: true
 
 **Articles in Peer-reviewed Publications**
 
-Topal, Reyhan. 2023. “A Techno-Docility Approach to Repression and Surveillance of Uyghurs.” <i>Asian Survey.</i> 64 (1): 143-167. DOI: 10.1525/as.2023.2079647
+Topal, Reyhan. 2024. “A Techno-Docility Approach to Repression and Surveillance of Uyghurs.” <i>Asian Survey.</i> 64 (1): 143-167. DOI: 10.1525/as.2023.2079647
 
 Topal, Reyhan. 2023. “An Empirical Assessment of China’s Counterterrorism Efforts and Securitization of Turkic Muslims.” <i>Studies in Conflict & Terrorism</i> 46 (9): 1745-1765. DOI: 10.1080/1057610X.2021.1892604
 
