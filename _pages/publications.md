@@ -17,7 +17,7 @@ Topal, Reyhan and Farzin Shargh. 2022. “Bringing the Students Back in: How to 
 
 **Book Chapters**
 
-Topal, Reyhan. 2025. “Cybersecurity Research in International Studies.” In Oxford Research Encyclopedia of <i>International Studies</i>, edited by Nukhet Sandal. USA: Oxford University Press (forthcoming).
+Topal, Reyhan. 2025. “Cybersecurity Research in International Studies.” In <i>Oxford Research Encyclopedia of International Studies</i>, edited by Nukhet Sandal. USA: Oxford University Press (forthcoming).
 
 Asal, Victor, Reyhan Topal, and Charmaine N. Willis. 2022. “Abstract Blitzing and Beyond: Teaching Political Methodology.” In <i>Teaching Graduate Political Methodology</i>, edited by Mitchell Brown, Shane Nordyke, and Cameron Thies, 62-69. Northampton, MA: Edward Elgar Publishing.
 
