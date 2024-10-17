@@ -7,7 +7,7 @@ author_profile: true
 
 **Articles in Peer-reviewed Publications**
 
-Topal, Reyhan. 2023. “A Techno-Docility Approach to Repression and Surveillance of Uyghurs.” <i>Asian Survey.</i> DOI: 10.1525/as.2023.2079647
+Topal, Reyhan. 2023. “A Techno-Docility Approach to Repression and Surveillance of Uyghurs.” <i>Asian Survey.</i> 64 (1): 143-167. DOI: 10.1525/as.2023.2079647
 
 Topal, Reyhan. 2023. “An Empirical Assessment of China’s Counterterrorism Efforts and Securitization of Turkic Muslims.” <i>Studies in Conflict & Terrorism</i> 46 (9): 1745-1765. DOI: 10.1080/1057610X.2021.1892604
 
@@ -16,6 +16,8 @@ Topal, Reyhan and Farzin Shargh. 2023. “Teaching Students How to Find and Iden
 Topal, Reyhan and Farzin Shargh. 2022. “Bringing the Students Back in: How to Re-Engage Students in a ‘Post-Covid’ World.” <i>Political Science Educator</i> 26 (1): 17-20.
 
 **Book Chapters**
+
+Topal, Reyhan. 2025. “Cybersecurity Research in International Studies.” In Oxford Research Encyclopedia of <i>International Studies</i>, edited by Nukhet Sandal. USA: Oxford University Press (forthcoming).
 
 Asal, Victor, Reyhan Topal, and Charmaine N. Willis. 2022. “Abstract Blitzing and Beyond: Teaching Political Methodology.” In <i>Teaching Graduate Political Methodology</i>, edited by Mitchell Brown, Shane Nordyke, and Cameron Thies, 62-69. Northampton, MA: Edward Elgar Publishing.
 
