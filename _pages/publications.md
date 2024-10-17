@@ -32,6 +32,8 @@ Topal, Reyhan. 2022. “The Rise of Digital Repression: How Technology is Reshap
 
 **Other Publications**
 
+Topal, Reyhan (with Global Voices team). 2022. “Unfreedom Monitor.” <i>Global Voices</i>, April 2022. Available [online](https://advox.globalvoices.org/wp-content/uploads/2022/04/GV_Unfreedom_Monitor_Briefing_Note_Apr2022.pdf)
+
 Topal, Reyhan. 2022. “Decolonizing Data to Tackle Digital Authoritarianism.” <i>Global Voices</i>, May 30, 2022. Available [online](https://globalvoices.org/2022/06/02/decolonizing-data-to-tackle-digital-authoritarianism/).
 
 Topal, Reyhan. 2022. “Still Flattening the Curve? Increased Risk of Digital Authoritarianism after COVID-19.” <i>Global
