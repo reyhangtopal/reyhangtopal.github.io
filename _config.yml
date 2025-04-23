@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reyhan Topal"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Reyhan Topal"
+name                     : &name "Reyhan Topal, Ph.D."
 description              : &description "personal description"
 url                      : https://reyhangtopal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Reyhan Topal"
+  name             : "Reyhan Topal, Ph.D."
   avatar           : "https://reyhangtopal.github.io/files/reyt2.jpg"
-  bio              : "Ph.D. Candidate and Adjunct Professor at University at Albany, State University of New York"
+  bio              : "Research Manager at the Center for Policy Research, University at Albany, State University of New York"
   location         : "Princeton, NJ - Albany, NY"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "reyhanguner"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
